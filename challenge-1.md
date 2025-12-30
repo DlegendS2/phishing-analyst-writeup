@@ -1,10 +1,10 @@
 # Challenge 1: Phishing Email Analysis
 
 **Email Details:**
-- From: amazon@zyevantoby.cn
-- To: saintington73@outlook.com
-- Subject: Your Account has been locked
-- Date: 14 Jul 2021
+From: Mail Delivery System <Mailer-Daemon@se7-syd.hostedmail.net.au>
+Sent: 18 March 2021 04:14
+To: kinnar1975@yahoo.co.uk <kinnar1975@yahoo.co.uk>
+Subject: Undeliverable: Website contact form submission
 
 Who is the primary recipient of this email? (1 points)
 kinnar1975@yahoo.co.uk
